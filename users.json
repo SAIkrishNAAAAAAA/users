@@ -1,0 +1,27 @@
+{
+  "user": [
+    {"Full Name": "saikrishna",
+    "Phone Number": 123456789,
+    "Email": "saikri007@gmail.com",
+    "Address": "Hyderabad",
+    "Password":"Something007new@",
+    "Order History": []
+    },
+    {
+      "Full Name": "sandeep",
+    "Phone Number": 987654321,
+    "Email": "saNdeep007@gmail.com",
+    "Address": "Hyderabad",
+    "Password":"Everithingthing007new@",
+    "Order History": []
+    },
+    
+    {"Full Name": "shylu",
+    "Phone Number": 654987123,
+    "Email": "shylu007@gmail.com",
+    "Address": "Hyderabad",
+    "Password":"nOthing007new@",
+    "Order History": []
+    }
+  ]
+}  
